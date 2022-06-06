@@ -2,12 +2,12 @@
 /**
  * Setting Helper.
  *
- * @since __TRIBE_VERSION__
+ * @since 1.0.0
  *
- * @package Tribe\Extensions\__TRIBE_NAMESPACE__
+ * @package Tribe\Extensions\Qatools
  */
 
-namespace Tribe\Extensions\__TRIBE_NAMESPACE__;
+namespace Tribe\Extensions\Qatools;
 
 use Tribe__Main;
 
